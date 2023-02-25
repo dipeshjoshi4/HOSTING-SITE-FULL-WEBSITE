@@ -9,3 +9,8 @@ this website is the online buy and take subscription plan of website hosting.
 **Source code editor:** VS Code
 
 **Version control system**: Git and Github.
+
+`Assests are Provided!`
+
+## Task
+- Replicate the below output as a responsive webpage.
