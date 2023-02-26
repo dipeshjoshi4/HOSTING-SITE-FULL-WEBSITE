@@ -10,7 +10,13 @@ this website is the online buy and take subscription plan of website hosting.
 
 **Version control system**: Git and Github.
 
-`Assests are Provided!`
+
 
 ## Task
 - Replicate the below output as a responsive webpage.
+
+## Expected Output
+
+`Assests are Provided!`
+
+<img src="Hosting Landing Page.png">
