@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-**Web-development skills:** HTML and CSS. tailwind css
+**Web-development skills:** HTML and CSS.
 
 **Source code editor:** VS Code
 
