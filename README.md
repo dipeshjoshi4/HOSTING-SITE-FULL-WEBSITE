@@ -1,4 +1,4 @@
-# HOSTING-WEBSITE
+# 🔗 HOSTING-WEBSITE
 
 - This Website is for online buying and selling subcription plan of Hosting Services.
 - which is given every and each deatil of Hosting Plans and its required lots of solution then old Hosting website
@@ -13,14 +13,14 @@
 
 **Version control system**: Git and Github.
 
-## Live Link
+## 🔗 Live Link
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://hosting-site-dj.netlify.app)
 
 
-## Task
+## 🔗 Task
 - Replicate the below output as a responsive webpage.
 
-## Expected Output
+## 🔗 Expected Output
 
 `Assests are Provided!`
 
