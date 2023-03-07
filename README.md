@@ -25,3 +25,9 @@
 `Assests are Provided!`
 
 <img src="Hosting Landing Page.png">
+
+## 🔗 Links
+
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DipeshJ2310)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/)
